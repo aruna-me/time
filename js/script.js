@@ -1,7 +1,7 @@
 setInterval (updateClock, 1000);
 
-let aniDelay = document.querySelector('.inner-1').style.animationDelay = '1800s';
-setTimeout(function() {aniDelay}, 1800000);
+// let aniDelay = document.querySelector('.inner-1').style.animationDelay = '1800s';
+// setTimeout(function() {aniDelay}, 1800000);
 
 
 function updateClock() {
