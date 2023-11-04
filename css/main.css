@@ -65,6 +65,7 @@ body {
     width: 0px;
     animation: move 1200s linear;
     animation-iteration-count: infinite;
+    animation-delay: 600s;
 }
 
 .delay {
